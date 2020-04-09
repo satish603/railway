@@ -1,0 +1,222 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing:border-box; 
+}
+body
+{
+	background-image: url(white-electric-post-near-railway-163751.jpg);
+	background-size:cover;
+	background-position:small bottom;
+   	
+}
+.menu-bar
+{
+	height:80px;
+	background:#160F03 ;
+	text-align:center;
+}
+	
+.menu-bar ul
+{
+	display:inline-flex;
+	list-style:none;
+	color:black;
+}
+.menu-bar ul li 
+{
+	width: 200px;
+	margin: 4px;
+	padding: 30px; 
+}
+.menu-bar ul li a
+{
+	text-decoration:none;
+	color:white;
+}
+.active,.menu-bar ul li:hover
+{
+	background-size: large;
+	background:#784212 ;
+	border-radius:8px;
+
+}
+.menu-bar .fa
+{
+	margin-right:8px;
+}
+.sub-menu-1
+{
+	display:none;
+}
+.menu-bar ul li:hover .sub-menu-1
+{
+	display:block;
+	position:absolute;
+	background:#1D8348  ;
+	margin-top:15px;
+	margin-left:-15px;
+
+}
+.menu-bar ul li:hover .sub-menu-1 ul
+{
+    display:block;
+	margin:10px;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li
+{  
+    width:150px;
+    padding:10px;
+    border-bottom:1px dotted #fff;
+	background: transparent  ;
+    border-radius:0;
+    text-align:left;
+} 
+.menu-bar ul li:hover .sub-menu-1 ul li a:hover
+{
+	color:red;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child
+{
+border-bottom:none;	
+}
+
+.sub-menu-2
+{
+	display:none;
+}
+.menu-bar ul li:hover .sub-menu-2
+{
+
+	display:block;
+	position:absolute;
+	background:#1D8348  ;
+	margin-top:15px;
+	margin-left:-0px;
+}
+.menu-bar ul li:hover .sub-menu-2 ul
+{
+    display:block;
+	margin:10px;
+}
+.menu-bar ul li:hover .sub-menu-2 ul li
+{  
+    width:150px;
+    padding:10px;
+    border-bottom:1px dotted #fff;
+	background: transparent  ;
+    border-radius:0;
+    text-align:left;
+} 
+.menu-bar ul li:hover .sub-menu-2 ul li a:hover
+{
+	color:red;
+}
+.menu-bar ul li:hover .sub-menu-2 ul li:last-child
+{
+border-bottom:none;	
+}
+.sub-menu-3
+{
+	display:none;
+}
+.menu-bar ul li:hover .sub-menu-3
+{	
+	display:block;
+	position:absolute;
+	background: #1D8348  ;
+	margin-top:15px;
+	margin-left:-0px;	
+}
+.menu-bar ul li:hover .sub-menu-3 ul
+{
+    display:block;
+	margin:10px;
+}
+.menu-bar ul li:hover .sub-menu-3 ul li
+{  
+    width:150px;
+    padding:10px;
+    border-bottom:1px dotted #fff;
+	background: transparent  ;
+    border-radius:0;
+    text-align:left;
+} 
+.menu-bar ul li:hover .sub-menu-3 ul li a:hover
+{
+	color:red;
+}
+.menu-bar ul li:hover .sub-menu-3 ul li:last-child
+{
+border-bottom:none;	
+}
+.sub-menu-4
+{
+	display:none;
+}
+.menu-bar ul li:hover .sub-menu-4
+{
+    display:block;
+	position:absolute;
+	background:#1D8348  ;
+	margin-top:15px;
+	margin-left:-0px;	
+}
+.menu-bar ul li:hover .sub-menu-4 ul
+{
+    display:block;
+	margin:10px;
+}
+.menu-bar ul li:hover .sub-menu-4 ul li
+{  
+    width:150px;
+    padding:10px;
+    border-bottom:1px dotted #fff;
+	background: transparent  ;
+    border-radius:0;
+    text-align:left;
+} 
+.menu-bar ul li:hover .sub-menu-4 ul li a:hover
+{
+	color:red;
+}
+.menu-bar ul li:hover .sub-menu-4 ul li:last-child
+{
+border-bottom:none;	
+}
+.sub-menu-5
+{
+	display:none;
+}
+.menu-bar ul li:hover .sub-menu-5
+{
+    display:block;
+	position:absolute;
+	background:#1D8348  ;
+	margin-top:15px;
+	margin-left:-15px;	
+}
+
+.menu-bar ul li:hover .sub-menu-5 ul
+{
+    display:block;
+	margin:10px;
+}
+.menu-bar ul li:hover .sub-menu-5 ul li
+{  
+    width:150px;
+    padding:10px;
+    border-bottom:1px dotted #fff;
+	background: transparent  ;
+    border-radius:0;
+    text-align:left;
+} 
+.menu-bar ul li:hover .sub-menu-5 ul li a:hover
+{
+	color:red;
+}
+.menu-bar ul li:hover .sub-menu-5 ul li:last-child
+{
+border-bottom:none;	
+}
