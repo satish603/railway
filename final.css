@@ -66,7 +66,6 @@ body {
 }
 
 aside {
-    background:url("images/page2-img3.jpg");
 	background-size: 10%;
     float: 0;
     width: 95%;
@@ -94,8 +93,6 @@ h2 {
 }
 
 .main {
-    background:url("plk.jpg");
-    background-repeat:no-repeat;
     margin: 10px 20px  40px;
     padding: 35px 40px 30px 0;
     color: #444444;
